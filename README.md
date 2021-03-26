@@ -8,6 +8,9 @@ The Cryptography is gotten from a Greek word which implies the craft of ensuring
 
 ### IEEE Research Paper: 
 
+You can view and read my Research paper at- **[LINK](https://ieeexplore.ieee.org/document/9199997)**
+
+
 ![IEEE_paper_image](https://user-images.githubusercontent.com/28294942/102985981-10f56400-4536-11eb-94ed-5647af384dea.PNG)
 
 
