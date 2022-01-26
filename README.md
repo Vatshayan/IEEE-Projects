@@ -1,4 +1,4 @@
-# IEEE-Project
+# Top Class IEEE Project
 
 IEEE Research paper and Final Year Project on Cryptography Communication Security.
 
@@ -25,12 +25,7 @@ You Can use this Beautiful Project for your college Project and get good marks t
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
-
-### WANT RESEARCH PAPER WITH CODE 
- Email me at **vatshayan007@gmail.com** to get Projects as your requirements.
- 
- Want New Research Paper/Need Research Paper Writer : **[Samples](https://projectspro.in/hire-writer)**
+💌 Feel free to contact me for any kind of help on projects related to Blockchain, Machine Learning, Data Science, Cryptography, Web technologies and Cloud.
 
 ### HOW TO RUN THE PROJECT-
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
@@ -43,4 +38,5 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### CSE Projects: [LINK](https://www.cse-projects.com)
 
+## Top IEEE Projects with Research paper : https://computerscienceproject.com/ieee-research-paper-based-projects
 Thanks :)
