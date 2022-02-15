@@ -1,6 +1,8 @@
 # Top Class IEEE Project
 
-IEEE Research paper and Final Year Project on Cryptography Communication Security.
+![Research Projects](https://user-images.githubusercontent.com/91561594/154006598-c4ccf4e8-6ffb-479c-8f82-ca922c43b81d.jpg)
+
+IEEE Research paper and Final Year Project.
 
 ### System Requirements : **[LINK](https://github.com/Vatshayan/IEEE-Projects/blob/main/Shivam%20Project%20Synopsis.pdf)**
 
