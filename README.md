@@ -40,5 +40,5 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### CSE Projects: [LINK](https://www.cse-projects.com)
 
-## Top IEEE Projects with Research paper : https://computerscienceproject.com/ieee-research-paper-based-projects
-Thanks :)
+### Top IEEE Projects with Research paper : [Link](https://computerscienceproject.com/ieee-research-paper-based-projects)
+
