@@ -29,16 +29,19 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💌 Feel free to contact me for any kind of help on projects related to Blockchain, Machine Learning, Data Science, Cryptography, Web technologies and Cloud.
 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
+### Need Code, Documents & Explanation video ? 
 
-### 📫 HOW TO REACH ME 
+## How to Reach me :
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)**
+### Mail : vatshayan007@gmail.com 
 
-💬 Gmail: **vatshayan007@gmail.com**
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
+### Website : https://www.finalproject.in/
+
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
 
 ### Top IEEE Projects with Research paper : [Link](https://computerscienceproject.com/ieee-research-paper-based-projects)
 
